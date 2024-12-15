@@ -43,7 +43,7 @@ Welcome to the **AR/VR Experience Hub**! This open-source project is a web appli
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/AR-VR-Experience-Hub.git
+   git clone https://github.com/YourUsername/AR-VR_Gallery.git
    ```
 
 2. Place the files in your server's root directory.
